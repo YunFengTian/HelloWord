@@ -17,5 +17,9 @@ namespace gittest.Controllers
 
             return View();
         }
+        public ActionResult Abc()
+        {
+            return View();
+        }
     }
 }
