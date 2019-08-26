@@ -12,7 +12,6 @@ namespace gittest.Controllers
         public ActionResult Index()
         {
             string str = "test";
-            
 
 
             return View();
